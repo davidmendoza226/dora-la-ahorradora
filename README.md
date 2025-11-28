@@ -106,7 +106,8 @@ Sistema de presupuesto mensual.
 ![Logo de Dora la Ahorradora](assets/Logo.png)
 
 ### Vista del programa
-![Pantalla del programa](assets/Captura_de_pantalla_1.png)
+![Pantalla del programa](assets/Capturadepantalla1.png)
+
 
 
 
