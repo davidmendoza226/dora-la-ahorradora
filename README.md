@@ -99,4 +99,11 @@ Clasificación por categoría.
 
 App móvil o interfaz gráfica en Tkinter.
 
+
 Sistema de presupuesto mensual.
+
+### Logo
+![Logo de Dora la Ahorradora](assets/logo.png)
+
+### Vista del programa
+![Pantalla del programa](assets/captura1.png)
